@@ -88,6 +88,3 @@ Acknowledgments
     The dataset is sourced from the UCI Machine Learning Repository.
     Special thanks to the community for their resources and guidance in machine learning and data science.
 
-Contributing
-
-If you would like to contribute to this project, please fork the repository and submit a pull request.
